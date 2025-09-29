@@ -4,6 +4,8 @@ description: This resource is a supporting file for english consonants.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/7b13c96e9acfb288989b80c468e191b6_english.mp3
 file_size: 4586522
 file_type: audio/mpeg
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

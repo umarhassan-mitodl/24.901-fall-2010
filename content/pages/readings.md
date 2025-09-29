@@ -82,7 +82,7 @@ Phonetics II: acoustics of consonants
 
 \[CIP\], chapter 6
 
-Lisker, Leigh, and Arthur S. Abramson. {{% resource_link "931adc75-d3e3-458e-acb5-b2a636379d05" "\"A Cross-language Study of Voicing in Initial Stops: Acoustical Measurements.\"" %}} *Word* 20, no. 3 (1964): 384-422.
+Lisker, Leigh, and Arthur S. Abramson. ["A Cross-language Study of Voicing in Initial Stops: Acoustical Measurements."](https://www.tandfonline.com/doi/abs/10.1080/00437956.1964.11659830) *Word* 20, no. 3 (1964): 384-422.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -174,7 +174,7 @@ Prosodic morphology: reduplication and truncation
 Loanword phonology
 {{< tdclose >}}{{< tdopen >}}
 
-Silverman, Daniel. "{{% resource_link "7b8d1668-3564-4c2d-bb4e-95f61c800bd2" "Multiple Scansions in Loanword Phonology: Evidence from Cantonese" %}}." *Phonology* 9, no. 2 (1992): 289-328.
+Silverman, Daniel. "[Multiple Scansions in Loanword Phonology: Evidence from Cantonese](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=2395936&fulltextType=RA&fileId=S0952675700001627)." *Phonology* 9, no. 2 (1992): 289-328.
 
 Yip, Moira. "The Symbiosis Between Perception and Grammar in Loanword Phonology." *Lingua* 116 (2006): 950-975.
 
@@ -204,9 +204,9 @@ Goldsmith, John. *Handbook of Phonological Theory*. Blackwell, 1995. ISBN: 97806
 
 De Lacy, Paul. *Cambridge Handbook of Phonology*. Cambridge University Press, 2007. ISBN: 9780521848794.
 
-{{% resource_link "81f9797b-8b12-4212-8b6a-5b4707f99a03" "*Phonology*" %}}.
+[*Phonology*](http://journals.cambridge.org/action/displayJournal?jid=PHO).
 
-{{% resource_link "a967474e-3b45-4e5e-b3b0-4711d85e9de2" "*Natural Language and Linguistic Theory*" %}}.
+[*Natural Language and Linguistic Theory*](http://www.springer.com/education+%26+language/linguistics/journal/11049).
 
 ### Phonetics
 
@@ -216,8 +216,8 @@ Reetz, Henning, and Allard Jongman. *Phonetics: Transcription, Production, Acous
 
 Ladefoged, Peter, and Ian Maddieson. *Sounds of the World's Languages*. Blackwell, 1996. ISBN: 9780631198154.
 
-{{% resource_link "39a99bfa-c2f9-44e3-ba0b-fc685362420d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stevens, Kenneth. *Acoustic Phonetics*. MIT Press, 2000. ISBN-13: 9780262692502.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262692502) Stevens, Kenneth. *Acoustic Phonetics*. MIT Press, 2000. ISBN-13: 9780262692502.
 
-{{% resource_link "53d5610b-3a10-4695-b72c-d2edaa35e03a" "*Journal of Phonetics*" %}}.
+[*Journal of Phonetics*](http://www.elsevier.com/wps/find/journaldescription.cws_home/622896/description#description).
 
-{{% resource_link "93085df0-3dce-4492-a2d0-30045f7e4652" "*Journal of the International Phonetic Association*" %}}.
+[*Journal of the International Phonetic Association*](http://journals.cambridge.org/action/displayJournal?jid=IPA).

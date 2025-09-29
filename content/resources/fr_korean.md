@@ -4,6 +4,8 @@ description: This resource is a supporting file for french korean.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/b7cfc51f5972dc9e618c11e82ad4a140_fr_korean.mp3
 file_size: 5712256
 file_type: audio/mpeg
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

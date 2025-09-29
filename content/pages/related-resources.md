@@ -11,22 +11,22 @@ Below are useful Web sites with helpful charts and sound files.
 
 ## Sound files
 
-{{% resource_link "1a4b9bcb-6895-4465-9087-10f9d42bd9a5" "Index of Sounds." %}} Extensive index of sounds from Peter Ladefoged's UCLA archive.
+[Index of Sounds.](http://phonetics.ucla.edu/index/sounds.html#Anchor-Clicks-11481) Extensive index of sounds from Peter Ladefoged's UCLA archive.
 
 ## General phonetics resources
 
-{{% resource_link "cea7c6cd-0a05-4733-8b8d-7aa9a71aed44" "UCLA Phonetics lab" %}}
+[UCLA Phonetics lab](http://www.linguistics.ucla.edu/faciliti/uclaplab.html)
 
-{{% resource_link "9d82f654-46fd-47af-8fa4-63dd895d896e" "Peter Ladefoged" %}}'s personal webpage.
+[Peter Ladefoged](http://www.linguistics.ucla.edu/people/ladefoge/)'s personal webpage.
 
-{{% resource_link "57350d3d-bc5b-4b38-953d-fbd8a9da531f" "*A Course in Phonetics*" %}}
+[*A Course in Phonetics*](http://phonetics.ucla.edu/course/contents.html)
 
-{{% resource_link "b21b9d11-903a-4ae0-835f-5310cd83f755" "*Vowels and Consonants*" %}}
+[*Vowels and Consonants*](http://phonetics.ucla.edu/vowels/contents.html)
 
-{{% resource_link "08a00fa7-4ab5-443a-a620-241e6bb78035" "International Phonetic Association" %}}
+[International Phonetic Association](https://www.internationalphoneticassociation.org/)
 
-{{% resource_link "a96bc8c2-45fc-475a-9012-928592943100" "Linguistics Handbook" %}}. University of Victoria Department of Linguistics.
+[Linguistics Handbook](http://web.uvic.ca/ling/resources/ipa/handbook.htm). University of Victoria Department of Linguistics.
 
-{{% resource_link "1dd8168a-2b6f-47ed-920e-f561387a6bac" "Charis SIL Font" %}}. Available for free download.
+[Charis SIL Font](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=CharisSILfont). Available for free download.
 
-{{% resource_link "b985f060-c63d-4e3b-883b-40e181a22849" "Praat" %}}. Computer tool for linguistics available for free download.
+[Praat](http://www.fon.hum.uva.nl/praat/). Computer tool for linguistics available for free download.

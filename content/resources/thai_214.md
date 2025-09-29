@@ -4,6 +4,8 @@ description: This resource is a supporting file for Thai tones 214.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/595ac063e9e42a8a4bcf81662bc4a84e_thai_214.mp3
 file_size: 32696
 file_type: audio/mpeg
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

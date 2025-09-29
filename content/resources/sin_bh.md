@@ -4,6 +4,8 @@ description: This resource is a supporting file for Sindhi 'bh'.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/b12d57e378af549da08c962bfe109548_sin_bh.mp3
 file_size: 13530
 file_type: audio/mpeg
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

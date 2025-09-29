@@ -4,6 +4,8 @@ description: This resource is a supporting file for Japanese 'seken'.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/d8f2c3ec094be3a863af1907674ee29a_jap_seken.mp3
 file_size: 66048
 file_type: audio/mpeg
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

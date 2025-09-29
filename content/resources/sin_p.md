@@ -4,6 +4,8 @@ description: This resource is a supporting file for Sindhi 'p'.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/6e5e6505869b3611943f58cf04344afe_sin_p.mp3
 file_size: 10882
 file_type: audio/mpeg
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
