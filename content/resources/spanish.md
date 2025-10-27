@@ -4,8 +4,6 @@ description: This resource is a supporting file for Spanish.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/321010dc72c951efec79fd29bb2105a8_spanish.mp3
 file_size: 275728
 file_type: audio/mpeg
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

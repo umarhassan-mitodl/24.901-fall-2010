@@ -4,8 +4,6 @@ description: This resource is a supporting file for Thai tones 45.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/72329a114914552f02ea1531d240c944_thai_45.mp3
 file_size: 27338
 file_type: audio/mpeg
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

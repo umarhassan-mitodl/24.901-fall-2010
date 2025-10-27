@@ -4,8 +4,6 @@ description: This resource is a supporting file for Japanese 'shuchoo'.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/57098d1056ab3d9dd04d6075110abc53_jap_shuchoo.mp3
 file_size: 80900
 file_type: audio/mpeg
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

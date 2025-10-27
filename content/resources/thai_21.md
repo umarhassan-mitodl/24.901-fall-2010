@@ -4,8 +4,6 @@ description: This resource is a supporting file for Thai tones 21.
 file: /courses/24-901-language-and-its-structure-i-phonology-fall-2010/86303c8cf57d37f2e9a14cd8ea54f788_thai_21.mp3
 file_size: 36406
 file_type: audio/mpeg
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
